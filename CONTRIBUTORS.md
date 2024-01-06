@@ -1,3 +1,3 @@
 # Contributors
 - [Sommani](sommani@github.com)
-- [Watcharapong](cepong@gmail.com)
+- [Watcharapong](ce-pong@gmail.com)
